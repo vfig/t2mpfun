@@ -1,0 +1,5 @@
+; Built zip:
+*.zip
+
+; Temp stuff:
+/candidates
