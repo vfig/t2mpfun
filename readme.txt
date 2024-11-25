@@ -1,4 +1,4 @@
-T2MPFun, alpha 0.1. Not for public release.
+T2MPFun, alpha 0.2. Not for public release.
 
 For Thief 2 Multiplayer (NewDark  v1.27) only.
 
